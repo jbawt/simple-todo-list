@@ -38,7 +38,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 !['checked/new task input'](https://github.com/jbawt/simple-todo-list/blob/master/docs/Screenshot%20from%202020-11-19%2012-29-41.png)
 
-#### Finished Task/new task added view:
+#### Finished tasks removed/new task added view:
 
 !['finished/new task added'](https://github.com/jbawt/simple-todo-list/blob/master/docs/Screenshot%20from%202020-11-19%2012-30-15.png)
 
